@@ -11,4 +11,5 @@ Overview
 - Number, [php-number](https://github.com/prototypeblocks/php-number)  
 - Session, [php-session](https://github.com/prototypeblocks/php-session)  
 - Text, [php-text](https://github.com/prototypeblocks/php-text)  
+- Url, [php-url](https://github.com/prototypeblocks/php-url)  
 - Validate, [php-validate](https://github.com/prototypeblocks/php-validate)  
